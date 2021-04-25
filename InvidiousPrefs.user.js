@@ -1,13 +1,12 @@
 // ==UserScript==
-// @run-at document-start
 // @name        Invidious Prefs
-// @namespace   INVp
 // @description Load preferences from URL parameters on any instance on Invidious
+// @namespace   INVp
 // @version     1.0
-// @copyright   2021 Chopper
+// @run-at 		document-start
+// @grant       none
 // @include     *watch?v=*
 // @exclude     https://www.youtube.com/*
-// @grant       none
 // ==/UserScript==
 
 //Visit https://github.com/iv-org/documentation/blob/master/List-of-URL-parameters.md to find the list of parameters available.
