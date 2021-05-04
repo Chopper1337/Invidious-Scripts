@@ -2,7 +2,7 @@
 // @name 		Invidious Replace
 // @description Replaces Youtube URLs with a random Invidious instance
 // @namespace 	InvidReplace
-// @version 	1.1
+// @version 	1.0
 // @run-at 		document-end
 // @grant 		none
 // @include 	http://www.youtube.com/*
