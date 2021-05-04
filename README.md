@@ -37,3 +37,5 @@ This should work for any instance of Invidious.
 ## Note
 
 I made these scripts for my own use to temporarily work around the issue of YouTube's own website being the only place you can see all videos from everyone you're subscribed to. Unfortunately, Invidious, FreeTube, NewPipe and everything else I've tried will be missing channels, get rate limited or run into other issues.
+
+Also note that I don't know Javascript at all.
