@@ -1,7 +1,19 @@
 # Invidious-Scripts
 Userscripts I use for Invidious
 
-## InvidiousRedirect
+## InvidiousReplacer
+
+This script directly replaces the video links on YouTube.com with Invidious links to the same videos, then adds your preferences onto that URL.
+
+Similar to the InvidiousRedirect script, you can specify which instances to use in the array `urls`.
+
+Similar to the InvidiousPrefs script, you can specify your Invidious parameters in the `myParams` array.
+
+The script runs every 5 seconds to check for newly loaded URLs, such as those which appear after scrolling.
+
+## Individual Scripts
+
+### InvidiousRedirect
 
 This is a script which will automatically redirect YouTube video URLs to a random instance of Invidious as set in the script.
 
@@ -12,7 +24,7 @@ Open a YouTube video in a new tab (Middle click on them is easiest), in a second
 This will not replace embedded YouTube videos.
 
 
-## InvidiousPrefs
+### InvidiousPrefs
 
 This script automatically adds your preferred preferences for Invidious using URL parameters.
 
