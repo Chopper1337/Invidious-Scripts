@@ -19,7 +19,7 @@ The script runs every 5 seconds to check for newly loaded URLs, such as those wh
 
 This is a script which will automatically redirect YouTube video URLs to a random instance of Invidious as set in the script.
 
-Edit the `urls` array, add and/or remove Invidious instances per your preference.
+Edit the `urls` array, add and/or remove Invidious instances per your preference. A different instance will be picked at random from that array upon loading of the page.
 
 Open a YouTube video in a new tab (Middle click on them is easiest), in a second or two they will be redirected to a random Invidious instance from the array.
 
