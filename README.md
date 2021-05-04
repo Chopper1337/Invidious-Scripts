@@ -11,6 +11,8 @@ Similar to the InvidiousPrefs script, you can specify your Invidious parameters 
 
 The script runs every 5 seconds to check for newly loaded URLs, such as those which appear after scrolling.
 
+[>>Install<<](https://github.com/Chopper1337/Invidious-Scripts/raw/main/InvidiousReplacer.user.js)
+
 ## Individual Scripts
 
 ### InvidiousRedirect
@@ -23,6 +25,8 @@ Open a YouTube video in a new tab (Middle click on them is easiest), in a second
 
 This will not replace embedded YouTube videos.
 
+[>>Install<<](https://github.com/Chopper1337/Invidious-Scripts/raw/main/Individual%20Scripts/InvidiousRedirect.user.js)
+
 
 ### InvidiousPrefs
 
@@ -33,6 +37,8 @@ To configure, first go to the [Invidious documentation](https://github.com/iv-or
 Then, edit the `myParams` string in the script with these parameters.
 
 This should work for any instance of Invidious.
+
+[>>Install<<](https://github.com/Chopper1337/Invidious-Scripts/raw/main/Individual%20Scripts/InvidiousPrefs.user.js)
 
 ## Note
 
